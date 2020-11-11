@@ -1,3 +1,4 @@
 # TensorFlow-for-Deep-Learning
 
-In order to open .ipynp files if github fails enter the url file on https://nbviewer.jupyter.org/
+
+If the github viewer fails for .ipynp files enter the URL of the file at https://nbviewer.jupyter.org/
