@@ -2,7 +2,7 @@
 
 Este repositorio contiene modelos de Machine Learning para practicar en TensorFlow.
 
-Para ejecutar un modelo haga click en su link mostrado mas abajo en este readme y una vez abierto ejecutar en colab con el siguiente boton:
+Para ejecutar un modelo haga click en su enlace mas abajo en este documento y una vez abierto ejecutar en colab con el siguiente boton:
 
 ![colab](https://user-images.githubusercontent.com/71594504/99155610-bad10d80-26b9-11eb-9a0c-ea2acecff212.PNG)
 
