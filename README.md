@@ -12,7 +12,7 @@ Modelo simple para averiguar los coeficientes de la formula que convierte grados
 - [Celsius to Farenheit Model](https://gist.github.com/Jackesgamero/a3c8def8d3d714d6c3bca0eddf1642ef)
 
 ## Identificador de prendas de moda
-Modelo basado en una red neuronal que clasifica imagenes de ropa según el tipo de prenda que sea(camisetas, abrigos, sandalias, sudaderas..) 
+Modelo basado en una red neuronal que clasifica imagenes de ropa según el tipo de prenda que sea(camisetas, abrigos, sandalias, sudaderas...) 
 
 - [Fashion-MNIST Clothing Classifier](https://github.com/Jackesgamero/TensorFlow-for-Deep-Learning/blob/master/Fashion-MNIST%20Clothing%20Classifier/Clothes_Image_Identifier.ipynb)
 
