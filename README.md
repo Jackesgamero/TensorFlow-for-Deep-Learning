@@ -4,4 +4,4 @@
 If the github viewer fails for .ipynp files enter the URL of the file at https://nbviewer.jupyter.org/
 
 
-[Celsius to Farenheit Model](https://nbviewer.jupyter.org/github/Jackesgamero/TensorFlow-for-Deep-Learning/blob/master/%C2%BAC%20to%20%C2%BAF%20Machine%20learning%20model/Modelo_Celsius_a_Farenheit.ipynb)
+[Celsius to Farenheit Model](https://gist.github.com/Jackesgamero/a3c8def8d3d714d6c3bca0eddf1642ef)
