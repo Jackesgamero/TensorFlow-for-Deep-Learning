@@ -1,6 +1,6 @@
 # TensorFlow-for-Deep-Learning
 
-Este repositorio contiene modelos de Machine Learning para practicar en TensorFlow.
+Este repositorio contiene modelos de Machine Learning implementados en TensorFlow.
 
 Para ejecutar un modelo haga click en su enlace mas abajo en este documento y una vez abierto ejecutar en colab con el siguiente boton:
 
