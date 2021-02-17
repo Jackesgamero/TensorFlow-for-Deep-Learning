@@ -1,4 +1,4 @@
-# TensorFlow-for-Deep-Learning
+# ML models on tf
 
 Este repositorio contiene modelos de Machine Learning implementados en TensorFlow.
 
