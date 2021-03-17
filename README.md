@@ -6,7 +6,7 @@ Este repositorio contiene modelos de Machine Learning implementados en TensorFlo
 
 <br>
 
-Para ejecutar un modelo haga click en el boton Open in Colab
+*Para ejecutar un modelo haga click en el boton Open in Colab*
 
 ## 🌡 Modelo Celsius a Farenheit ~ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/Jackesgamero/a3c8def8d3d714d6c3bca0eddf1642ef/modelo-celsius-a-farenheit.ipynb)
 
