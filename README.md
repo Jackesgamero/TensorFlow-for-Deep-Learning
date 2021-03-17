@@ -22,7 +22,7 @@ Para ejecutar un modelo haga click en su enlace mas abajo en este documento y un
 - [Fashion-MNIST Clothing Classifier](https://github.com/Jackesgamero/TensorFlow-for-Deep-Learning/blob/master/Fashion-MNIST%20Clothing%20Classifier/Clothes_Image_Identifier.ipynb) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
 
 
-## 🥼 Identificador de prendas de moda implementado con CNNs &emsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZisYYbjKCA70zcaVWzqfOTh9o5UH7pE8)
+## 🥼 Identificador de prendas de moda implementado con CNNs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZisYYbjKCA70zcaVWzqfOTh9o5UH7pE8)
 
 > Modelo basado en una red neuronal formada por capas convolucionales que clasifica imagenes de ropa del conjunto de datos Fashion-MNIST de Zalando según el tipo de prenda que sea(camisetas, abrigos, sandalias, sudaderas...)
 
