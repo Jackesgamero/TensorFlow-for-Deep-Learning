@@ -2,7 +2,7 @@
 
 Este repositorio contiene modelos de Machine Learning implementados en TensorFlow.
 
-Para ejecutar un modelo haga click en el boton openColab
+Para ejecutar un modelo haga click en el boton open in Colab
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://mit-license.org/)
 
