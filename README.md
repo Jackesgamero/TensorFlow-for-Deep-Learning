@@ -9,7 +9,7 @@ Para ejecutar un modelo haga click en su enlace mas abajo en este documento y un
 ## 🌡 Modelo Celsius a Farenheit
 > Modelo simple para averiguar los coeficientes de la formula que convierte grados Celsius a grados Farenheit
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/Jackesgamero/a3c8def8d3d714d6c3bca0eddf1642ef/modelo-celsius-a-farenheit.ipynb)
+- [Celsius to Farenheit Model](https://gist.github.com/Jackesgamero/a3c8def8d3d714d6c3bca0eddf1642ef) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/Jackesgamero/a3c8def8d3d714d6c3bca0eddf1642ef/modelo-celsius-a-farenheit.ipynb)
 
 ## 🧥 Identificador de prendas de moda
 > Modelo basado en una red neuronal que clasifica imagenes de ropa del conjunto de datos Fashion-MNIST de Zalando según el tipo de prenda que sea(camisetas, abrigos, sandalias, sudaderas...) 
