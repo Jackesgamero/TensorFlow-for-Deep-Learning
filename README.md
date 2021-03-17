@@ -6,8 +6,7 @@ Para ejecutar un modelo haga click en el boton Open in Colab
 
 <br>
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://mit-license.org/)
-&emsp; <img alt="TensorFlow" src="https://camo.githubusercontent.com/bd7d4ff84187e452ee0575a2a2ebe4081d69529c9bcd14225a5eb3953d8af8d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72466c6f772d4646364630303f7374796c653d666c6174266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" />
+<img alt="TensorFlow" src="https://camo.githubusercontent.com/bd7d4ff84187e452ee0575a2a2ebe4081d69529c9bcd14225a5eb3953d8af8d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72466c6f772d4646364630303f7374796c653d666c6174266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" /> &emsp; -[![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://mit-license.org/) 
 
 <br>
 
