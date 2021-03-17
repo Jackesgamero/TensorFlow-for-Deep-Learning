@@ -5,6 +5,7 @@ Este repositorio contiene modelos de Machine Learning implementados en TensorFlo
 Para ejecutar un modelo haga click en su enlace mas abajo en este documento y una vez abierto ejecutar en colab con el siguiente boton:
 
 ![colab](https://user-images.githubusercontent.com/71594504/99155610-bad10d80-26b9-11eb-9a0c-ea2acecff212.PNG)
+[![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://mit-license.org/)
 
 ## 🌡 Modelo Celsius a Farenheit
 > Modelo simple para averiguar los coeficientes de la formula que convierte grados Celsius a grados Farenheit
