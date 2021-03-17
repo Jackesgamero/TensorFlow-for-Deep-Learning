@@ -1,4 +1,4 @@
-# ML models on tf
+# Machine Learning Models developed with TensorFlow
 
 Este repositorio contiene modelos de Machine Learning implementados en TensorFlow.
 
