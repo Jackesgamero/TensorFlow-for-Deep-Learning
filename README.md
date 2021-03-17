@@ -28,4 +28,6 @@ Para ejecutar un modelo haga click en su enlace mas abajo en este documento y un
 
 - [Fashion-MNIST Clothing Classifier with CNNs](https://github.com/Jackesgamero/TensorFlow-for-Deep-Learning/blob/master/Fashion-MNIST%20Clothing%20Classifier/Fashion_MNIST_Clothing_Classifier_with_CNNs.ipynb)
 
+<br>
+
 If the github viewer fails for .ipynp files enter the URL of the file at https://nbviewer.jupyter.org/
